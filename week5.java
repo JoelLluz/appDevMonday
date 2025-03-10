@@ -1,25 +1,45 @@
 public class week5 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
-       
+
+
+        // Call each student's method
+        // More students will add their method calls here...
+        //Redecio.display();
+
+
+
+        // lastname.display();
+
         // Call each student's method
         // More students will add their method calls here...
 
 
-        //lastname.display();
-
-        Velayo.display();
+        // lastname.display();
 
 
         Lluz.display();
 
 
 
+
+        Bantilo.display();
+
+
+
+
+        Velayo.display();
+
+
+        Lluz.display();
+
+        David.display();
       
+
+
         Lucero.display();
 
         Jalique.display();
-
 
         Lanzar.display();
 
@@ -32,40 +52,111 @@ public class week5 {
         Plena.display();
         Palomas.display();
 
-
         AlimMaria.display();
 
         Pergis.display();
-
+        Samson.display();
 
         Velayo.display();
 
         Esponga.display();
 
+        Corporal.display();
+
+
+        Lim.Display();
+
+
+
+        Lim.Display();
 
        Corporal.display();
 
-	Lim.Display();
+	Lim.display();
 
 
 
       Santos.display();
 
-	Jalosjos.Display();
+	Jalosjos.display();
 
-	Babon.Display();
+	Babon.display();
 	    
 
+	Aldama.display();
+
+    Manuba.display();
+
+	Arenas.display();
+
+
+	Abagat.Display();
+
+	Ringor.display();
+
+        Gutierrez.Display();
+
+
+
+
+	Villanueva.Display();
+
+
+	Padohinog.Display();
+	    
+
+
 	Aldama.Display();
+
 	Abastilla.Display();
 
+	RaffyNaul.display();
+     Mendones.Display();
+
+        SanAgustin.Display();
+	Sese.Display();	
 
 
 
 
+    Cafugauan.Display();
+
+
+    
+    Catalan.Display();
+
+
+    Demafelis.display();
+
+
+        Santos.display();
+
+        Jalosjos.Display();
+
+
+        Babon.Display();
+
+    Sabangan.Display();
+
+
+        Aldama.Display();
+        Lacandula.display();
+
+	      Lamac.Display();
+
+       Mendoza.display();
+
+        Mendoza.display();
+	    
+
+Mendoza.display();
+
+
+       AbegailPotenciano.display();
 
 
 
+        Mirandilla.display();
 
     }
 }
